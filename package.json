@@ -1,0 +1,27 @@
+{
+  "name": "nvm-env",
+  "version": "0.0.1",
+  "description": "Setting nvm environment variables for `child_process`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7anshuai/nvm-env.git"
+  },
+  "keywords": [
+    "nvm",
+    "env",
+    "child_process"
+  ],
+  "author": "Tan Shuai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/7anshuai/nvm-env/issues"
+  },
+  "homepage": "https://github.com/7anshuai/nvm-env#readme",
+  "dependencies": {
+    "semver": "^5.4.1"
+  }
+}
