@@ -1,6 +1,6 @@
 {
   "name": "nvm-env",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Setting nvm environment variables for `child_process`",
   "main": "index.js",
   "scripts": {
