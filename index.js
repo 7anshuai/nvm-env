@@ -3,6 +3,7 @@ var semver = require('semver');
 var NVM_ENV = {
   MANPATH: process.env.MANPATH,
   NVM_BIN: process.env.NVM_BIN,
+  NVM_INC: process.env.NVM_INC,
   NVM_PATH: process.env.NVM_PATH,
   PATH: process.env.PATH
 }
