@@ -1,6 +1,8 @@
 # nvm-env [![Build Status](https://travis-ci.org/7anshuai/nvm-env.svg?branch=master)](https://travis-ci.org/7anshuai/nvm-env)
 Setting nvm environment variables for `child_process`
 
+> :warning: This package has been deprecated. Use `nvm exec` instead of.
+
 ## Installation
 
 ```bash
